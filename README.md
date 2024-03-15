@@ -1,3 +1,3 @@
 # Aayush's portfolio website 
 
-This is my personal portfolio website developed through React.js! 
+This repository includes my code files for my personal portfolio website that was developed through React.js! 
