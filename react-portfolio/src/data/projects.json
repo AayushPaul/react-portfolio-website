@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Char Mann's Moral Adventures",
+      "imageSrc": "projects/char_mann.png",
+      "description": "This is an adventure-based moral video game based on Dhar Mann. This was developed for my Fundamentals of Engineering Honors(FEH) Class in Autumn 2023.",
+      "skills": ["C++", "Ohio State's FEH Proteus Simulator"],
+      "source": "https://github.com/AayushPaul/Software-Development-Projects/blob/main/SDP%20Final%20Code.pdf"
+    },
+    {
+      "title": "PictoAI",
+      "imageSrc": "projects/pictoAI.png",
+      "description": "This is an AI model developed during the 2024 Hack AI event, which is Ohio State's premier AI Hackathon. Although this model is for everyone, it is primarily for children. With this model, children can learn about everyday objects and animals through image classification, stimulating their cognitive development. This model could definitely be implemented in a well-developed app.",
+      "skills": ["Google Colab", "TensorFlow", "NumPy"],
+      "source": "https://colab.research.google.com/drive/1Y-XttR6YUB9BKv7wHPeuxWqNLld7ELB-?usp=sharing"
+    }
+    
+  ]
