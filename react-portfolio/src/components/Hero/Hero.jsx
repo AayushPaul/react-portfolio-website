@@ -8,7 +8,7 @@ export const Hero = () => {
     <section className = {styles.container}> 
         <div className={styles.content}>
             <h1 className={styles.title}> Hi, I am Aayush Paul</h1>
-            <p className={styles.description}> I am a Computer Science and Engineering student at The Ohio State University in the Integrated Business and Engineering Honors Program. 
+            <p className={styles.description}> I am a Computer Science and Engineering student at The Ohio State University in the Integrated Business and Engineering(IBE) Honors Program. 
             I love expanding my technical skills through the classes I take at Ohio State, online courses, side projects, and internships.
             Reach out if you would like to learn more about me! 
             </p> 

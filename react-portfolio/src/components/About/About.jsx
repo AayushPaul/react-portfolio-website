@@ -50,8 +50,8 @@ export const About = () => {
               <p>
                 I have experience in AI development through TensorFlow, Python,
                 and Google Collab. Although I am not a master at AI yet, I am
-                currently taking an online course on Codeacademy to improve my
-                AI skills through the lessons and projects in the course. Additionally, I am planning to acquire new skills 
+                currently taking a few online courses on Codecademy to improve my
+                AI skills through the lessons and projects in the courses. Additionally, I am planning to acquire new skills 
                 through AI-related internships and other opportunities. 
               </p>
             </div>

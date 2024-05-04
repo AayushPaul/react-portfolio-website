@@ -22,8 +22,10 @@ export const Experience = () => {
                 })}
             </div>
             
-         
-              <ul className={styles.history}>
+            { 
+
+                /*
+                <ul className={styles.history}>
                 {history.map((historyItem, id) => {
                     return (
                         <li key={id} className={styles.historyItem}>
@@ -32,7 +34,7 @@ export const Experience = () => {
                                 alt={`${historyItem.organization} Logo`}
                             />
 
-                             <div className={styles.historyItemDetails}>
+                            <div className={styles.historyItemDetails}>
                                 <h3>{`${historyItem.role}, ${historyItem.organization}`}</h3>
                                 <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
 
@@ -41,7 +43,9 @@ export const Experience = () => {
                         </li>
                     )
                 })}
-            </ul>  
+                </ul>  
+                        */ 
+            } 
             
         </div>
     </section>

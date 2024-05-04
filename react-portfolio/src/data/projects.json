@@ -12,6 +12,13 @@
       "description": "This is an AI model developed during the 2024 Hack AI event, which is Ohio State's premier AI Hackathon. Although this model is for everyone, it is primarily for children. With this model, children can learn about everyday objects and animals through image classification, stimulating their cognitive development. This model could definitely be implemented in a well-developed app.",
       "skills": ["Google Colab", "TensorFlow", "NumPy"],
       "source": "https://colab.research.google.com/drive/1Y-XttR6YUB9BKv7wHPeuxWqNLld7ELB-?usp=sharing"
+    }, 
+    {
+      "title": "PopuLert's AI Chat Advisor",
+      "imageSrc": "projects/AI Chat Advisor.png",
+      "description": "This is an AI chatbot that provides location recommendations and generates schedules based on user interests and crowd levels. This chatbot was developed for PopuLert, a software product idea my classmates and I worked on for the IBE pitch competition.",
+      "skills": ["React.js", "OpenAI API"],
+      "source": "https://github.com/AayushPaul/PopuLert-AI-Chat-Advisor"
     }
     
   ]
