@@ -75,7 +75,7 @@
 }
 
 .historyItem img {
-    width: 50px; 
+    width: 60px; 
 }
 
 .historyItemDetails {
@@ -88,7 +88,7 @@
 }
 
 .historyItemDetails p {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 300;
 }
 

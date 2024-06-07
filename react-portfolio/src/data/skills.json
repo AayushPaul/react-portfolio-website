@@ -34,6 +34,14 @@
     {
       "title": "Tensorflow",
       "imageSrc":"skills/tensorflow.png"
+    }, 
+    {
+      "title": "Spring", 
+      "imageSrc": "skills/Spring_Boot.png"
+    }, 
+    {
+      "title": "AWS Amplify", 
+      "imageSrc": "skills/aws-amplify-logo.png"
     }
     
   ]

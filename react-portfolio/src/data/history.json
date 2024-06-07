@@ -1,11 +1,11 @@
 [
    
     {
-      "role": "SWE Intern",
-      "organization": "Pylot AI",
+      "role": "Software Developer",
+      "organization": "SmileChild",
       "startDate": "May, 2024",
-      "endDate": "August, 2024",
-      "experiences": "Will work on AI language learning model that could automate job opportunities, solve math problems, and write essays",   
-      "imageSrc": "history/pylot_ai.png"
+      "endDate": "Present",
+      "experiences": "I am developing SmileChild's iOS learning platform app with React Native and AWS Amplify for parents of newborn children to decrease infant mortality rates in Columbus and beyond. The React Native framework is being used to implement the front-end functionalities while AWS Amplify is being used to implement the back-end functionalities of the application.",   
+      "imageSrc": "history/smile_child_logo.jpeg"
     }
   ]

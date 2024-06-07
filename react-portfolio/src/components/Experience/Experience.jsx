@@ -24,7 +24,7 @@ export const Experience = () => {
             
             { 
 
-                /*
+                
                 <ul className={styles.history}>
                 {history.map((historyItem, id) => {
                     return (
@@ -44,7 +44,7 @@ export const Experience = () => {
                     )
                 })}
                 </ul>  
-                        */ 
+                         
             } 
             
         </div>
