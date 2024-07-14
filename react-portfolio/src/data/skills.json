@@ -16,16 +16,16 @@
       "imageSrc": "skills/react.png"
     },
     {
+      "title": "Bootstrap", 
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "skills/java.png"
     },
     {
       "title": "Python",
       "imageSrc": "skills/python.png"
-    },
-    {
-      "title": "C",
-      "imageSrc": "skills/C_Logo.png"
     },
     {
       "title": "C++",
@@ -42,6 +42,26 @@
     {
       "title": "AWS Amplify", 
       "imageSrc": "skills/aws-amplify-logo.png"
+    }, 
+    {
+      "title": "Node.js", 
+      "imageSrc": "skills/node-js.png"
+    },
+    {
+      "title": "MySQL", 
+      "imageSrc": "skills/my_sql_logo.png"
+    },
+    {
+      "title": "OpenAI API", 
+      "imageSrc": "skills/openai-icon.png"
+    }, 
+    {
+      "title": "Android Studio", 
+      "imageSrc": "skills/Android_Studio_Logo.png"
+    }, 
+    {
+      "title": "Netlify", 
+      "imageSrc": "skills/netlify-logo-png.png"
     }
     
   ]

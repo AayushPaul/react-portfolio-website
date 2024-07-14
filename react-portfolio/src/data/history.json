@@ -5,7 +5,25 @@
       "organization": "SmileChild",
       "startDate": "May, 2024",
       "endDate": "Present",
-      "experiences": "I am developing SmileChild's iOS learning platform app with React Native and AWS Amplify for parents of newborn children to decrease infant mortality rates in Columbus and beyond. The React Native framework is being used to implement the front-end functionalities while AWS Amplify is being used to implement the back-end functionalities of the application.",   
+      "location": "Remote - Columbus, Ohio", 
+      "responsibilities": [
+        "Developing SmileChild's iOS/Android application for parents of newborn children to decrease infant mortality rates in Columbus and beyond by implementing the front-end functionalities with React Native and back-end functionalities with AWS Amplify", 
+        "Improving the response time of items, such as decreasing the time it takes for the navigation bar icons to change colors when moving between tabs by 5 seconds",
+        "Continuously testing the application with the Android Studio emulator to observe changes to different features, such as the navigation bar and quiz flashcards"
+      ],    
       "imageSrc": "history/smile_child_logo.jpeg"
+    }, 
+    {
+      "role": "Sofware Engineer Intern", 
+      "organization": "Radical AI", 
+      "startDate": "July, 2024", 
+      "endDate": "Present", 
+      "location": "Remote - New York, New York", 
+      "responsibilities": [
+        "Programming QuantumBot, the back-end component of ReX, an AI Coach who serves as a steadfast career companion for learners, with Node.js and Firebase Firestore to develop unique features, such as user authentication",
+        "Engineered the front-end component of ReX, CosmoChat UI, by implementing real-time message delivery and customizable user themes", 
+        "Architected CosmoChat's user interface with React.js and Material UI and established real-time chat and state management with Redux, OpenAI API, and web sockets"
+      ],    
+      "imageSrc": "history/radicalai_li_logo.jpeg"
     }
   ]
