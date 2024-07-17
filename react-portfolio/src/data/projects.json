@@ -34,8 +34,8 @@
       "title": "Dean's List Application", 
       "date": "June 2024", 
       "imageSrc":"projects/deans_list_new.png", 
-      "description": "This is a full-stack and CRUD(Create, Read, Update, Delete) web application created with Java, MySQL, and Spring Boot in IntelliJ IDEA for the backend and JavaScript, React, and Bootstrap for the frontend in VS code. The web application allows college counselors to add students to the online system with their semester GPAs, so that college faculty can determine which students made the Dean's List. Any college can use this application, and students who have at least a 3.5 GPA make the Dean's List!", 
-      "skills": ["React.js", "Bootstrap Framework", "JavaScript", "Spring Framework", "MySQL", "Java"], 
+      "description": "This is a full-stack and CRUD(Create, Read, Update, Delete) web application created with Java, MySQL, Postman API, and Spring Boot in IntelliJ IDEA for the backend and JavaScript, React, and Bootstrap for the frontend in VS code. The web application allows college counselors to add students to the online system with their semester GPAs, so that college faculty can determine which students made the Dean's List. Any college can use this application, and students who have at least a 3.5 GPA make the Dean's List!", 
+      "skills": ["React.js", "Bootstrap Framework", "JavaScript", "Spring Framework", "MySQL", "Postman API", "Java"], 
       "source": "https://github.com/AayushPaul/FullStack-Student-Application-Backend/tree/master"
     }, 
     {

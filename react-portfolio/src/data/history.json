@@ -20,7 +20,7 @@
       "endDate": "Present", 
       "location": "Remote - New York, New York", 
       "responsibilities": [
-        "Programming QuantumBot, the back-end component of ReX, an AI Coach who serves as a steadfast career companion for learners, with Node.js and Firebase Firestore to develop unique features, such as user authentication",
+        "Programming QuantumBot, the back-end component of ReX, an AI Coach who serves as a steadfast career companion for learners, with Node.js, Firebase Firestore, and Postman API to develop unique features, such as chat history",
         "Engineered the front-end component of ReX, CosmoChat UI, by implementing real-time message delivery and customizable user themes", 
         "Architected CosmoChat's user interface with React.js and Material UI and established real-time chat and state management with Redux, OpenAI API, and web sockets"
       ],    
