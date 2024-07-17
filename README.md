@@ -1,3 +1,4 @@
 # Aayush's portfolio website 
 
-This repository includes my code files for my personal portfolio website that was developed through React.js! 
+This is my personal portfolio website that was developed through React.js!
+https://aayushpaul-portfolio.netlify.app/
