@@ -1,5 +1,13 @@
 [
     {
+      "title": "Figma", 
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Notion", 
+      "imageSrc": "skills/Notion_app_logo.png"
+    },
+    {
       "title": "HTML",
       "imageSrc": "skills/html.png"
     },

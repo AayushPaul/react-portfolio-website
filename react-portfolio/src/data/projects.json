@@ -16,11 +16,11 @@
       "source": "https://colab.research.google.com/drive/1Y-XttR6YUB9BKv7wHPeuxWqNLld7ELB-?usp=sharing"
     }, 
     {
-      "title": "PopuLert's AI Chat Advisor",
-      "date": "March 2024 - April 2024", 
+      "title": "PopuLert - Your Crowd Compass",
+      "date": "January 2024 - April 2024", 
       "imageSrc": "projects/AI Chat Advisor.png",
-      "description": "This is an AI chatbot that provides location recommendations and generates schedules based on user interests and crowd levels. This chatbot was developed for PopuLert, a software product idea my classmates and I worked on for the IBE pitch competition.",
-      "skills": ["React.js", "OpenAI API"],
+      "description": "My IBE group members and I came up with the idea of PopuLert, an application that allows individuals to evaluate occupancy levels in establishments to eliminate wasted time and optimize their schedules, and we presented this idea to investors during the IBE pitch competition. I engaged in the  product life cycle and engineering design process by conducting user interviews and competitor analysis, researching market data, and brainstorming concept designs and features to develop the final Figma prototype that satisfies the user needs of reliable data, functionality, and access to multiple locations. Finally, I led the  development of Populert’s AI chat advisor, which is shown in the image, as the CTO of PopuLert by programming the frontend with React.js and the chat functionality with OpenAI API.",
+      "skills": ["React.js", "OpenAI API", "Figma"],
       "source": "https://github.com/AayushPaul/PopuLert-AI-Chat-Advisor"
     }, 
     {
