@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className = {styles.container}> 
         <div className={styles.content}>
-            <h1 className={styles.title}> Hi, my name is Aayush Paul! I aspire to become an AI/ML Engineer, Software Engineer, or Product Manager.</h1>
+            <h1 className={styles.title}> Hi, my name is Aayush Paul! I aspire to become an AI/ML Engineer, Software Engineer, Data Engineer, or Product Manager.</h1>
             <p className={styles.description}> 
               I am a Computer Science and Engineering student from Mason, Ohio in the Integrated Business and Engineering(IBE) 
               Honors Program at The Ohio State University.
