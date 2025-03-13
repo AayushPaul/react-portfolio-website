@@ -1,19 +1,33 @@
 [
     {
-      "title": "Char Mann's Moral Adventures",
-      "date": "November 2023 - December 2023", 
-      "imageSrc": "projects/char_mann.png",
-      "description": "This is an adventure-based moral video game based on Dhar Mann Studios, which is filled with videos that change lives for the better! Every time the user makes a decision, their morality score gets updated based on the “correctness” of the answer to each scenario. The game ends with three different scenarios: heaven, purgatory, or hell. This was developed for my Fundamentals of Engineering Honors(FEH) Class in Autumn 2023.",
-      "skills": ["C++", "Ohio State's FEH Proteus Simulator"],
-      "source": "https://github.com/AayushPaul/Software-Development-Projects/blob/main/SDP%20Final%20Code.pdf"
+      "title": "CalmBuddy: AI Powered Mental Health Assistant",
+      "date": "February 2025",
+      "imageSrc": "projects/CalmBuddy.png",
+      "skills": ["llama2", "CSS", "Python", "Streamlit", "Pyrebase", "Firebase", "Pandas"], 
+      "source": "https://github.com/AayushPaul/Mental-Health-App"
     },
     {
-      "title": "PictoAI",
-      "date": "February 2024", 
-      "imageSrc": "projects/pictoAI.png",
-      "description": "This is an AI model developed during the 2024 Hack AI event, which is Ohio State's premier AI Hackathon. Although this model is for everyone, it is primarily for children. With this model, children can learn about everyday objects and animals through image classification, stimulating their cognitive development. This model could definitely be implemented in a well-developed app.",
-      "skills": ["Google Colab", "TensorFlow", "Python"],
-      "source": "https://colab.research.google.com/drive/1Y-XttR6YUB9BKv7wHPeuxWqNLld7ELB-?usp=sharing"
+      "title": "Plant Disease Classification System", 
+      "date": "June 2024 - July 2024", 
+      "imageSrc": "projects/plant_disease_classifier.png", 
+      "description": "This is a 95% accurate plant disease classification system developed with Python, Tensorflow, CNN(Convolutional Neural Networks), and a Kaggle dataset in Google Colab. Additionally, Streamlit was used in the PyCharm IDE to develop the final application.", 
+      "skills": ["TensorFlow", "Python", "Google Colab", "Streamlit", "Deep Learning"], 
+      "source": "https://github.com/AayushPaul/plant-disease-classifier/tree/master"
+    },
+    {
+      "title": "Dean's List Application", 
+      "date": "June 2024", 
+      "imageSrc":"projects/deans_list_new.png", 
+      "description": "This is a full-stack and CRUD(Create, Read, Update, Delete) web application created with Java, MySQL, Postman API, and Spring Boot in IntelliJ IDEA for the backend and JavaScript, React, and Bootstrap for the frontend in VS code. The web application allows college counselors to add students to the online system with their semester GPAs, so that college faculty can determine which students made the Dean's List. Any college can use this application, and students who have at least a 3.5 GPA make the Dean's List!", 
+      "skills": ["React.js", "Bootstrap Framework", "JavaScript", "Spring Framework", "MySQL", "Postman API", "Java"], 
+      "source": "https://github.com/AayushPaul/FullStack-Student-Application-Backend/tree/master"
+    },
+    {
+      "title": "JPMorgan Chase Software Engineering Job Simulation", 
+      "date": "May 2024", 
+      "imageSrc": "projects/JP_Morgan_Chase_Simulation_Certificate.png", 
+      "description": "I used Perspective data visualization software, Python, and the React framework to monitor stock price trends and create trading strategies. Through this experience, I not only expanded my knowledge about Python and React, but I also learned about the potential responsibilities or types of tasks Software Engineers complete on a daily basis at JPMorgan Chase & Co. Most importantly, I was able to apply my software engineering skills in a practical setting and gain insights into the financial technology industry. Note: You cannot access my code if you try to click on the 'source' button due to the boilerplate code provided by JPMorgan. I am not allowed to share that code.", 
+      "skills": ["React.js", "Python"]
     }, 
     {
       "title": "PopuLert - Your Crowd Compass",
@@ -24,27 +38,20 @@
       "source": "https://github.com/AayushPaul/PopuLert-AI-Chat-Advisor"
     }, 
     {
-      "title": "JPMorgan Chase Software Engineering Job Simulation", 
-      "date": "May 2024", 
-      "imageSrc": "projects/JP_Morgan_Chase_Simulation_Certificate.png", 
-      "description": "I used Perspective data visualization software, Python, and the React framework to monitor stock price trends and create trading strategies. Through this experience, I not only expanded my knowledge about Python and React, but I also learned about the potential responsibilities or types of tasks Software Engineers complete on a daily basis at JPMorgan Chase & Co. Most importantly, I was able to apply my software engineering skills in a practical setting and gain insights into the financial technology industry. Note: You cannot access my code if you try to click on the 'source' button due to the boilerplate code provided by JPMorgan. I am not allowed to share that code.", 
-      "skills": ["React.js", "Python"]
+      "title": "PictoAI",
+      "date": "February 2024", 
+      "imageSrc": "projects/pictoAI.png",
+      "description": "This is an AI model developed during the 2024 Hack AI event, which is Ohio State's premier AI Hackathon. Although this model is for everyone, it is primarily for children. With this model, children can learn about everyday objects and animals through image classification, stimulating their cognitive development. This model could definitely be implemented in a well-developed app.",
+      "skills": ["Google Colab", "TensorFlow", "Python"],
+      "source": "https://colab.research.google.com/drive/1Y-XttR6YUB9BKv7wHPeuxWqNLld7ELB-?usp=sharing"
     }, 
     {
-      "title": "Dean's List Application", 
-      "date": "June 2024", 
-      "imageSrc":"projects/deans_list_new.png", 
-      "description": "This is a full-stack and CRUD(Create, Read, Update, Delete) web application created with Java, MySQL, Postman API, and Spring Boot in IntelliJ IDEA for the backend and JavaScript, React, and Bootstrap for the frontend in VS code. The web application allows college counselors to add students to the online system with their semester GPAs, so that college faculty can determine which students made the Dean's List. Any college can use this application, and students who have at least a 3.5 GPA make the Dean's List!", 
-      "skills": ["React.js", "Bootstrap Framework", "JavaScript", "Spring Framework", "MySQL", "Postman API", "Java"], 
-      "source": "https://github.com/AayushPaul/FullStack-Student-Application-Backend/tree/master"
-    }, 
-    {
-      "title": "Plant Disease Classification System", 
-      "date": "June 2024 - July 2024", 
-      "imageSrc": "projects/plant_disease_classifier.png", 
-      "description": "This is a 95% accurate plant disease classification system developed with Python, Tensorflow, CNN(Convolutional Neural Networks), and a Kaggle dataset in Google Colab. Additionally, Streamlit was used in the PyCharm IDE to develop the final application.", 
-      "skills": ["TensorFlow", "Python", "Google Colab", "Streamlit", "Deep Learning"], 
-      "source": "https://github.com/AayushPaul/plant-disease-classifier/tree/master"
+      "title": "Char Mann's Moral Adventures",
+      "date": "November 2023 - December 2023", 
+      "imageSrc": "projects/char_mann.png",
+      "description": "This is an adventure-based moral video game based on Dhar Mann Studios, which is filled with videos that change lives for the better! Every time the user makes a decision, their morality score gets updated based on the “correctness” of the answer to each scenario. The game ends with three different scenarios: heaven, purgatory, or hell. This was developed for my Fundamentals of Engineering Honors(FEH) Class in Autumn 2023.",
+      "skills": ["C++", "Ohio State's FEH Proteus Simulator"],
+      "source": "https://github.com/AayushPaul/Software-Development-Projects/blob/main/SDP%20Final%20Code.pdf"
     }
     
   ]

@@ -23,14 +23,14 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Development</h3>
               <p>
-                I have a solid understanding of React.js, Bootstrap, JavaScript, HTML, and CSS. I used
+                I have a solid understanding of React.js, Bootstrap, Material UI, TypeScript, JavaScript, HTML, and CSS. I used
                 these tools to develop cool projects, such as this portfolio website and a full-stack dean's list application.  
                 Additionally, as a former SWE intern at Marvel AI, I improved my Material UI and React skills by 
                 working on Kai, an AI teaching assistant, and CosmoChat UI, the frontend of ReX, an AI career companion for learners. 
                 In general, I am passionate about continuously 
                 improving my skills and staying up-to-date with the latest front-end technologies and best practices through 
                 complex projects, internships, and other opportunities. My goal is to become proficient in creating influential
-                applications for users! 
+                web and mobile applications for users! 
               </p>
             </div>
           </li>
@@ -44,10 +44,11 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                I have experience with Java, Python, C++, Spring, Node.js, Postman API, and Google Firebase. 
+                I have experience with Java, Python, C/C++, Spring, Node.js, Postman API, and Google Firebase. 
                 With my backend knowledge, I have developed unique projects, such as a full-stack dean's list application. In that 
                 project, Java, Spring Boot, and Postman API were used for the backend. I also used Python and C++ in a few projects, 
-                as noted in the projects section. Additionally, as a former SWE intern at Marvel AI, I strenghtened my Firebase, Postman API, and MySQL skills
+                as noted in the projects section. Additionally, I am proficient in C through my Systems 1 class at Ohio State. 
+                Finally, as a former SWE intern at Marvel AI, I strenghtened my Firebase, Postman API, and MySQL skills
                 through one of its mission projects, QuantumBot core. I would love to expand my back-end knowledge 
                 through future internships and contribute to dynamic teams! 
               </p>
@@ -63,15 +64,12 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>AI Development</h3>
               <p>
-                I have experience in AI development through the use of TensorFlow, Python, Google Collab, and 
+                I have experience in AI development, primarily with generative AI and machine learning, 
+                through the use of TensorFlow, Python, Google Colab, Ollama, and 
                 the powerful OpenAI API. I have developed some cool projects, 
-                such as a plant disease classification system and PopuLert's AI Chat Advisor. If you are interested 
-                in learning more about those projects, you can look at the projects section! 
-                I even attended some online sessions of the Microsoft Build event to learn about the latest Microsoft technologies that enable 
-                developers to leverage the power of AI to develop applications faster! Additionally, I attended Ohio State's first Construct I/O event hosted by the Center for Software Innovation. 
-                This event was filled with networking opportunities and awesome presentations on AI by innovative leaders. I even started building an AI chatbot with Llama and Tensorflow in Google Colab and with Streamlit
-                to develop the web application. 
-                In general, my goal is to acquire new skills through AI-related internships, conference events, and courses to become a member of the AI revolution!  
+                such as a plant disease classification system and a full-stack mental health application with an 
+                embedded AI chatbot powered by llama2. If you are interested 
+                in learning more about those projects, you can look at the projects section!    
               </p>
             </div>
           </li>

@@ -36,6 +36,14 @@
       "imageSrc": "skills/python.png"
     },
     {
+      "title": "Streamlit",
+      "imageSrc": "skills/streamlit.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
       "title": "C++",
       "imageSrc": "skills/c++.png"
     },
@@ -78,6 +86,14 @@
     {
       "title": "Postman API", 
       "imageSrc": "skills/icons8-postman-api.png"
+    }, 
+    {
+      "title": "Kotlin", 
+      "imageSrc": "skills/kotlin.png"
+    }, 
+    {
+      "title": "Swift", 
+      "imageSrc": "skills/swift.png"
     }
     
   ]

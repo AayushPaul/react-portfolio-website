@@ -7,9 +7,9 @@
       "endDate": "Present",
       "location": "Remote - Columbus, Ohio", 
       "responsibilities": [
-        "Developing SmileChild’s iOS/Android mobile learning platform app with Gradle for mothers of newborn children to decrease infant mortality rates in Columbus and beyond", 
-        "Implementing the front-end functionalities with React Native and back-end functionalities with AWS Amplify, enhancing the user interface of the body aches module and improving the response time of items",
-        "Continuously testing the application with the Android Studio emulator to observe changes to different features, such as the quiz screen of the body aches module"
+        "Developing SmileChild’s mobile learning platform application for new mothers with React Native and TypeScript, improving the UI and reducing navigation lag by 5 seconds", 
+        "Implemented backend user session duration tracking with AWS Amplify and Amazon DynamoDB",
+        "Modifying and testing Android features with Android SDK and Android Studio, ensuring the seamless deployment of the application"
       ],    
       "imageSrc": "history/smile_child_logo.jpeg"
     }, 
@@ -20,11 +20,9 @@
       "endDate": "October, 2024", 
       "location": "Remote - New York, New York", 
       "responsibilities": [
-        "Enhanced the onboarding process of Kai, an AI teaching assistant, by implementing a persistent progress bar and developing Kai's system configuration page with React.js, Next.js, Material UI, and Firebase",
-        "Collaborated with the Product Manager and Product Designer on the team through Notion and ClickUp to program the frontend of the system configuration page based on the Figma design, increasing user engagement by 35%",
-        "Programmed QuantumBot, the back-end component of ReX, an AI Coach who serves as a steadfast career companion for learners, with Node.js, Firebase Firestore, and Postman API to develop the unique feature of chat history",
-        "Engineered the front-end component of ReX, CosmoChat UI, by implementing real-time message delivery and customizable user themes", 
-        "Architected CosmoChat's user interface with React.js and Material UI and established real-time chat and state management with Redux, OpenAI API, and web sockets"
+        "Enhanced the onboarding process of Kai, an AI teaching assistant, with 15 individuals globally by implementing a persistent progress bar and system configuration page with React.js, Next.js, Material UI, and Firebase, increasing user engagement by 35%",
+        "Programmed QuantumBot, the backend component of ReX, an AI career coach for learners, with Node.js, Firebase, and Postman API to develop and store the unique feature of chat history",
+        "Engineered ReX's frontend UI, enhancing the chatbot response accuracy by 30%, utilizing React.js, Material UI, Redux, and OpenAI API"
       ],    
       "imageSrc": "history/marvel_ai_logo.jpeg"
     }
