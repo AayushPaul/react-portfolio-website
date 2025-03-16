@@ -3,6 +3,7 @@
       "title": "CalmBuddy: AI Powered Mental Health Assistant",
       "date": "February 2025",
       "imageSrc": "projects/CalmBuddy.png",
+      "description": "This project was developed during Ohio State's Hack AI 2025 event. It is a full-stack mental health web application with an embedded AI chatbot powered by llama2 that provides 24/7 mental health support. In addition to the chatbot, this application includes other interactive features, such as a mood tracker, breathing exercises, and guided meditations to enhance user well-being. The application was primarily developed with Streamlit. Additionally, the backend was engineered with Pyrebase for user accounts and authentication, and the Pandas and Datetime Python libraries were used to implement the mood tracker and breathing exercise features. Finally, the frontend was styled with CSS to provide a seamless user experience.",
       "skills": ["llama2", "CSS", "Python", "Streamlit", "Pyrebase", "Firebase", "Pandas"], 
       "source": "https://github.com/AayushPaul/Mental-Health-App"
     },

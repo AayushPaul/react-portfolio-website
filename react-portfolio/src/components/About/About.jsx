@@ -44,13 +44,13 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                I have experience with Java, Python, C/C++, Spring, Node.js, Postman API, and Google Firebase. 
+                I have experience with Java, Python, C/C++, Spring, Postman API, Google Firebase, AWS Amplify, and Amazon DynamoDB. 
                 With my backend knowledge, I have developed unique projects, such as a full-stack dean's list application. In that 
-                project, Java, Spring Boot, and Postman API were used for the backend. I also used Python and C++ in a few projects, 
-                as noted in the projects section. Additionally, I am proficient in C through my Systems 1 class at Ohio State. 
-                Finally, as a former SWE intern at Marvel AI, I strenghtened my Firebase, Postman API, and MySQL skills
-                through one of its mission projects, QuantumBot core. I would love to expand my back-end knowledge 
-                through future internships and contribute to dynamic teams! 
+                project, Java, Spring Boot, and Postman API were used for the backend. Additionally, I am proficient in C through my Systems 1 class at Ohio State. 
+                As a former SWE intern at Marvel AI, I strenghtened my Firebase, Postman API, and MySQL skills
+                through one of its mission projects, QuantumBot core. Finally, I have experience with AWS Amplify and Amazon DynamoDB 
+                through my experience as a Software Developer with SmileChild where I implemented user session duration tracking 
+                with those AWS services. I would love to expand my backend knowledge through future internships and contribute to dynamic teams with my backend skills! 
               </p>
             </div>
           </li>
