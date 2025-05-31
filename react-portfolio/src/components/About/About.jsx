@@ -68,13 +68,16 @@ export const About = () => {
                 through the use of TensorFlow, Python, Google Colab, Ollama, and 
                 the powerful OpenAI API. I have developed some cool projects, 
                 such as a plant disease classification system and a full-stack mental health application with an 
-                embedded AI chatbot powered by llama2. If you are interested 
-                in learning more about those projects, you can look at the projects section!    
+                embedded AI chatbot powered by llama2. 
+                In addition to my projects, through the use of different Python libraries in my current internship at U: The Mind Company, 
+                I am developing a digital twin that will simulate the brain conditions of each patient who have brain diseases, such as Parkinson's and Alzeihmer's, 
+                helping healthcare professionals treat these conditions more effectively. 
+                If you are interested in learning more about my experience at U and my projects, you can look at the experience and projects sections!    
               </p>
             </div>
           </li>
 
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <img
               src={getImageUrl("about/product_management.png")}
               alt="PM icon"
@@ -93,7 +96,7 @@ export const About = () => {
 
               </p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>

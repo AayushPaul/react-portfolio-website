@@ -94,6 +94,18 @@
     {
       "title": "Swift", 
       "imageSrc": "skills/swift.png"
+    }, 
+    {
+      "title": "NumPy", 
+      "imageSrc": "skills/numpy_logo(1).png"
+    }, 
+    {
+      "title": "SciPy", 
+      "imageSrc": "skills/scipy_logo.png"
+    },
+    {
+      "title": "Matplotlib", 
+      "imageSrc": "skills/matplotlib_logo.png"
     }
     
   ]

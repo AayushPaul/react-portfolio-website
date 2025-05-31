@@ -7,14 +7,12 @@ export const Hero = () => {
   return (
     <section className = {styles.container}> 
         <div className={styles.content}>
-            <h1 className={styles.title}> Hi, my name is Aayush Paul! I aspire to become an AI/ML Engineer, Software Engineer, Data Engineer, or Product Manager.</h1>
+            <h1 className={styles.title}> Hi, my name is Aayush Paul! I aspire to become an AI/ML Engineer or Software Engineer.</h1>
             <p className={styles.description}> 
               I am a Computer Science and Engineering student from Mason, Ohio in the Integrated Business and Engineering(IBE) 
               Honors Program at The Ohio State University.
               I love to expand my technical skills by learning about cutting-edge technologies and leveraging them 
               to develop beneficial and profitable software products, expanding my AI and software engineering skills. 
-              Additionally, I believe in the importance of developing products with market research, user interviews, and other useful actions to deliver
-              appealing products to customers, which has instilled my interest in product management. 
               Reach out if you would like to learn more about me! 
             </p> 
             <a href="mailto:paul.1174@osu.edu" className={styles.contactBtn}> Contact Me </a>
