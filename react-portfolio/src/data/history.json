@@ -6,9 +6,8 @@
       "endDate": "Present",
       "location": "Columbus, Ohio",
       "responsibilities": [
-        "Engineering a digital twin of the brain to enable simulation-based treatments for brain diseases like Alzheimer’s and Parkinson’s, enhancing research precision and physician performance in treating these diseases in the future",
-        "Implementing core mathematical models using NumPy and SciPy to simulate neuronal behavior with at least 90% accuracy for use in brain function analysis",
-        "Developing data visualizations with Matplotlib to illustrate dynamic brain simulation outputs, making the results easier to understand for researchers and medical professionals"
+        "Engineering a digital twin of the brain by implementing core mathematical models using NumPy and SciPy to simulate brain behavior with at least 90% accuracy for use in brain function analysis", 
+        "Developed and tested 10 interactive Matplotlib visualizations for 5 key brain wave bands (Delta-Gamma) for scientific publications, translating complex simulation data into insights for researchers, medical professionals, and the general public"
       ], 
       "imageSrc": "history/uneuroscience_logo.jpg"
     }, 
@@ -16,12 +15,12 @@
       "role": "Software Developer",
       "organization": "SmileChild",
       "startDate": "May 2024",
-      "endDate": "Present",
+      "endDate": "July 2025",
       "location": "Columbus, Ohio", 
       "responsibilities": [
-        "Developing SmileChild’s mobile learning platform application for new mothers with React Native and TypeScript, improving the UI and reducing navigation lag by 5 seconds", 
-        "Implemented backend user session duration tracking with AWS Amplify and Amazon DynamoDB",
-        "Modifying and testing Android features with Android SDK and Android Studio, ensuring the seamless deployment of the application"
+        "Developed part of the frontend of SmileChild's mobile learning platform for pregnant women and new mothers using React Native and TypeScript, improving the UI/UX and enhancing user engagement for an internal team of 20+ members currently testing the application", 
+        "Implemented backend user session duration tracking with AWS Amplify and Amazon DynamoDB, enabling the internal team to keep track of the average user session duration", 
+        "Modified and tested the frontend and backend features with Android Studio and AWS Amplify, such as disabling the register button for further study and improving the user session duration feature, ensuring the seamless deployment of the application"
       ],    
       "imageSrc": "history/smile_child_logo.jpeg"
     }, 
@@ -32,9 +31,9 @@
       "endDate": "October 2024", 
       "location": "New York, New York", 
       "responsibilities": [
-        "Enhanced the onboarding process of Kai, an AI teaching assistant, with 15 individuals globally by implementing a persistent progress bar and system configuration page with React.js, Next.js, Material UI, and Firebase, increasing user engagement by 35%",
-        "Programmed QuantumBot, the backend component of ReX, an AI career coach for learners, with Node.js, Firebase, and Postman API to develop and store the unique feature of chat history",
-        "Engineered ReX's frontend UI, enhancing the chatbot response accuracy by 30%, utilizing React.js, Material UI, Redux, and OpenAI API"
+        "Enhanced the onboarding process of Kai, an AI teaching assistant, with 12 individuals globally by implementing a persistent progress bar and system configuration page with React.js, Next.js, Material UI, and Google Firebase", 
+        "Engineered the frontend UI of ReX, an AI coach who serves as a steadfast career companion for learners, with React.js, Material UI, Redux, and OpenAI API, achieving an average chatbot response time of 5 seconds", 
+        "Programmed QuantumBot, the back-end component of ReX, with Node.js, Firebase Firestore, and Postman API to develop the unique feature of chat history"
       ],    
       "imageSrc": "history/marvel_ai_logo.jpeg"
     }

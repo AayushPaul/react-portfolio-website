@@ -15,7 +15,7 @@ export const Hero = () => {
               to develop beneficial and profitable software products, expanding my AI and software engineering skills. 
               Reach out if you would like to learn more about me! 
             </p> 
-            <a href="mailto:paul.1174@osu.edu" className={styles.contactBtn}> Contact Me </a>
+            <a href="mailto:aayushpaul01@gmail.com" className={styles.contactBtn}> Contact Me </a>
         </div>
         <img
             src={getImageUrl("hero/hero_portfolio.png")}
