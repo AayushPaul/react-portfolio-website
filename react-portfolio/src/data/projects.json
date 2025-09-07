@@ -1,5 +1,13 @@
 [
     {
+      "title": "Voice Unleashed",
+      "date": "May 2025 - August 2025",
+      "imageSrc": "projects/fluency_app.png",
+      "description": "This is a full-stack fluency application that enables users to record themselves through video and audio recordings and get AI-generated text feedback from those recordings that include key observations, such as any repetitions or facial tensions, and suggestions for fluency tools to use based on the available tools in the tools page of the application. The tools are taught by Marcus Lapp, an influential speech coach and former stutterer. The user interface was developed with React.js and CSS while the backend was developed with Node.js. Additionally, Google Firebase was used to store user accounts and implement user authentication. To implement the AI-generated text feedback feature, Claude API was used along with Google's Speech-to-Text and Video Intelligence APIs from Google Cloud Platform.",
+      "skills": ["React.js", "CSS", "Node.js", "Firebase", "Google Cloud Platform", "Claude API"], 
+      "source": "https://github.com/AayushPaul/fluency-app"
+    },
+    {
       "title": "CalmBuddy: AI Powered Mental Health Assistant",
       "date": "February 2025",
       "imageSrc": "projects/CalmBuddy.png",
