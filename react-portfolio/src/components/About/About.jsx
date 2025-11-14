@@ -24,7 +24,8 @@ export const About = () => {
               <h3>Frontend Development</h3>
               <p>
                 I have a solid understanding of React.js, Bootstrap, Material UI, TypeScript, JavaScript, HTML, and CSS. I used
-                these tools to develop cool projects, such as this portfolio website and a full-stack dean's list application.  
+                these tools to develop cool projects, such as this portfolio website and some parts of the frontend for the application I created with my team during 
+                JPMorgan's Code for Good Hackathon.   
                 Additionally, as a former SWE intern at Marvel AI, I improved my Material UI and React skills by 
                 working on Kai, an AI teaching assistant, and CosmoChat UI, the frontend of ReX, an AI career companion for learners. 
                 In general, I am passionate about continuously 

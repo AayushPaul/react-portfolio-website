@@ -3,11 +3,11 @@
       "role": "Software Engineer Intern",
       "organization": "U: The Mind Company",
       "startDate": "May 2025",
-      "endDate": "Present",
+      "endDate": "September 2025",
       "location": "Columbus, Ohio",
       "responsibilities": [
-        "Engineering a digital twin of the brain by implementing core mathematical models using NumPy and SciPy to simulate brain behavior with at least 90% accuracy for use in brain function analysis", 
-        "Developed and tested 10 interactive Matplotlib visualizations for 5 key brain wave bands (Delta-Gamma) for scientific publications, translating complex simulation data into insights for researchers, medical professionals, and the general public"
+        "Engineered core mathematical models with NumPy and SciPy for the development of a digital twin of the brain, achieving over 90% accuracy in simulating brain behavior for advanced functional analysis", 
+        "Developed and tested 10 interactive Matplotlib visualizations for 5 key brain wave bands (Delta-Gamma) for the digital twin website and scientific publications, translating complex simulation data into insights for researchers, medical professionals, and the general public"
       ], 
       "imageSrc": "history/uneuroscience_logo.jpg"
     }, 
