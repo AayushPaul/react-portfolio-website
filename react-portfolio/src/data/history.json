@@ -1,6 +1,18 @@
 [
     {
       "role": "Software Engineer Intern",
+      "organization": "JPMorganChase",
+      "startDate": "June 2026",
+      "endDate": "Present",
+      "location": "Columbus, Ohio",
+      "responsibilities": [
+        "Consumer and Community Banking"
+      ],
+      "hideBullets": true,
+      "imageSrc": "history/JPMC_logo.png"
+    }, 
+    {
+      "role": "Software Engineer Intern",
       "organization": "U: The Mind Company",
       "startDate": "May 2025",
       "endDate": "September 2025",

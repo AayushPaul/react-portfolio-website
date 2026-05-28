@@ -56,8 +56,12 @@
       "imageSrc": "skills/Spring_Boot.png"
     }, 
     {
-      "title": "AWS Amplify", 
-      "imageSrc": "skills/aws-amplify-logo.png"
+      "title": "AWS", 
+      "imageSrc": "skills/aws-logo-png-transparent.png"
+    }, 
+    {
+      "title": "GCP", 
+      "imageSrc": "skills/icons8-google-cloud-platform-48.png"
     }, 
     {
       "title": "Node.js", 

@@ -5,7 +5,7 @@
       "imageSrc": "projects/Lilabean_Project.png",
       "description": "As one of the 175 selected participants  from a competitive pool of 12,000 applicants, I participated in the JPMorgan Chase Code for Good Hackathon where I contributed to the development of a full-stack data visualization platform for The Lilabean Foundation to help the non-profit attract and retain donors. The application enables users and potential donors to visualize how contributions are allocated and understand their direct impact through several key features. The user interface, developed with React.js, TypeScript, Material UI, CSS, and Tailwind CSS, features a dashboard with an impact statement, a pie chart, a donation trend graph for funds raised over the years, an Instagram carousel for social engagement, and a 'Donor Badge' sign-up form. The backend was developed with Python and uses MongoDB to store structured data, such as the annual amount of funds raised. To implement the core data pipeline, the Gemini API was leveraged to parse multi-year donation and impact reports automatically. The Gemini API was also used to summarize annual research funding reports and generate personalized email updates for existing donors, including bar chart visualizations of their support.",
       "skills": ["React.js", "TypeScript", "Material UI", "CSS", "Tailwind CSS", "Python", "MongoDB", "Gemini API"], 
-      "source": ""
+      "source": "https://github.com/cfgcolumbus25/Team-17"
     },
     {
       "title": "Voice Unleashed",

@@ -38,11 +38,11 @@ export const Experience = () => {
                                 <h3> {`${historyItem.role}, ${historyItem.organization}`} </h3>
                                 <p> {`${historyItem.startDate} - ${historyItem.endDate}`} </p>
                                 <p> {`${historyItem.location}`} </p> 
-                                <ul> 
+                                <ul className={historyItem.hideBullets ? styles.noBullets : undefined}>
                                     {historyItem.responsibilities.map((responsibility, id) => {
                                         return <li key={id}>{responsibility}</li>
                                     })}
-                                </ul> 
+                                </ul>
                             </div> 
                         </li>
                     )
