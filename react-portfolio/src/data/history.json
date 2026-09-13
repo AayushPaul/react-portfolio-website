@@ -3,12 +3,14 @@
       "role": "Software Engineer Intern",
       "organization": "JPMorganChase",
       "startDate": "June 2026",
-      "endDate": "Present",
+      "endDate": "August 2026",
       "location": "Columbus, Ohio",
       "responsibilities": [
-        "Consumer and Community Banking"
+        "Developed a customer self-service confirmation and check-in application with React.js, TypeScript, Java, and Spring Boot, and utilized Jest, JUnit, and Mockito to ensure high reliability, achieving >90% code coverage across the codebase", 
+        "Engineered seamless integrations between the self-service application and an internal banker tool with 3 distinct Swagger APIs, facilitating secure cross-platform communication through real time visual updates via RESTful API endpoints",
+        "Designed the UI for an interactive AI chatbot and rebranded the customer-facing interface by utilizing proprietary Chase design components with React.js, CSS, and TypeScript, elevating the user experience and fostering customer trust through brand familiarity",
+        "Pitched a quarterly Guinness World Record program aimed at uniting 18,000+ JPMC employees across all Columbus offices and branches, winning the 'Most Creative' Award among 9 competing teams at the C3 Create & Innovate competition"
       ],
-      "hideBullets": true,
       "imageSrc": "history/JPMC_logo.png"
     }, 
     {
